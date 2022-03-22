@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @GGasset / Germán Gasset Martí
-- 👀 I like machine learning(working on it from time to time) and in web pages(backEnd & frontEnd)
-- 🌱 I’m currently learning C#, Machine learning with python and JavaScript
--     I want to learn TypeScript, react, node.js, express.js
--     Experience drawing with vectors
+- 👀 I like machine learning and i´m attracted to data science
+- 🌱 I’m currently learning python and R
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me gassetgerman@gmail.com
 <!---
