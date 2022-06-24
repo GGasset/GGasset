@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GGasset / Germán Gasset Martí
 - 👀 I have a passion for machine learning and I´m attracted to data science and data analytics
-- I also love extracting all kind of patterns
+- I also love extracting all kind of patterns and I have an innate curiosity
 - 🌱 I’m currently learning python at DataCamp
 - 💞️ I’m looking to collaborate on Data Science projects
 - 📫 How to reach me gassetgerman@gmail.com
